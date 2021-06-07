@@ -12,3 +12,27 @@ body {
   height: 600px;
   border: 1px solid black;
 }
+
+#step {
+  width: 3em;
+}
+
+#parameters {
+}
+
+.parameter-label {
+  padding-right: .5rem;
+  text-align: right;
+}
+
+.parameter-value {
+  text-align: left;
+}
+
+label {
+  margin-bottom: 0;
+}
+
+.display {
+  text-align: center;
+}
