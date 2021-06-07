@@ -4,5 +4,5 @@
 👉 Try it here: [kevduc.github.io/GOL.js](https://kevduc.github.io/GOL.js)
 
 ## Goal of this project
-- Practice JavaScript
 - Discover Bootstrap and use it to create a small UI
+- Practice JavaScript
