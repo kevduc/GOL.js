@@ -1,7 +1,7 @@
-# GOLjs
+# GOL.js
 
 🔲 Game Of Life in a canvas with Play/Pause, generation steps and draw method controls.  
-👉 Try it here: [kevduc.github.io/GOLjs](https://kevduc.github.io/GOLjs)
+👉 Try it here: [kevduc.github.io/GOL.js](https://kevduc.github.io/GOL.js)
 
 ## Goal of this project
 - Practice JavaScript
